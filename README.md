@@ -10,7 +10,7 @@ A game builed for Hackathon at isqip2017 with godot game engine
 * [Kamal Johnson](https://github.com/kamaljohnson)
 * [Shashank Babu](https://github.com/shashank-sj)
 * [Sujin S](https://github.com/SujinS)
-* [Abhijith](https://github.com/Abhijith)
+* [Abhijith](https://github.com/AbhijithKonnayil)
 
 [![Godot Engine logo](/logo.png)](https://godotengine.org)
 
